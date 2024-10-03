@@ -62,7 +62,7 @@ export default function About() {
                                     <div
                                         className={'h-[400px] w-[400px] rounded-full border-2 border-[#A9A9A9] z-10'}
                                         style={{
-                                            backgroundImage: 'url(https://abte.eu/wp-content/uploads/2023/07/AG-ABTE-07-2023.png)',
+                                            backgroundImage: 'url(assets/images/joel_julie.png)',
                                             backgroundSize: 'cover',
                                             backgroundRepeat: 'no-repeat',
                                             backgroundPosition: 'left'
@@ -103,7 +103,7 @@ export default function About() {
                                 <div className={"grid grid-cols-1 md:grid-cols-2 gap-4 mt-24 text-center"}>
 
                                     <div className={"p-4 rounded-lg space-y-4"}>
-                                        <div id={"section-2-img-1"} className={"h-48 w-48 mx-auto"}/>
+                                        <div id={"section-2-img-2"} className={"h-48 w-48 mx-auto"}/>
                                         <h1 className={"text-2xl font-bold"}>
                                             Un test de dégradation de PHA
                                         </h1>
@@ -114,7 +114,7 @@ export default function About() {
                                     </div>
 
                                     <div className={"p-4 rounded-lg space-y-4"}>
-                                        <div id={"section-2-img-2"} className={"h-48 w-48 mx-auto"}/>
+                                        <div id={"section-2-img-3"} className={"h-48 w-48 mx-auto"}/>
                                         <h1 className={"text-2xl font-bold"}>
                                             L’enquête sur nos consommations plastiques
                                         </h1>
@@ -192,7 +192,7 @@ export default function About() {
                                         <div
                                             className={'h-[400px] w-[400px] rounded-full border-2 border-[#A9A9A9] z-10'}
                                             style={{
-                                                backgroundImage: 'url(https://abte.eu/wp-content/uploads/2023/07/AG-ABTE-07-2023.png)',
+                                                backgroundImage: 'url(assets/images/section-2-img-2.png)',
                                                 backgroundSize: 'cover',
                                                 backgroundRepeat: 'no-repeat',
                                                 backgroundPosition: 'left'
@@ -238,7 +238,7 @@ export default function About() {
                                     <span className={'font-black'}>Étape 2: </span>
                                     Vous assemblez le cadre, en suivant notre pas-à-pas
                                 </h2>
-                                <img src="assets/images/02_protocole_court.png" alt=""
+                                <img src="assets/images/Cadre annoté(nature des échantillons).jpeg" alt=""
                                      className={'w-[700px] mt-12 mx-auto rounded-md'}/>
                                 <p className={'mt-4'}>
                                     Les échantillons de bioplastiques prennent la forme de bandelettes, fixées sur
@@ -260,7 +260,7 @@ export default function About() {
                             <div className={"grid grid-cols-1 md:grid-cols-3 gap-4 mt-24 text-center"}>
 
                                 <div className={"p-4 rounded-lg space-y-4"}>
-                                    <div id={"section-2-img-1"} className={"h-48 w-48 mx-auto"}/>
+                                    <img src="assets/images/enfouir_2.png" alt="" className={'h-44 w-44 rounded-full mt-12 mx-auto'}/>
                                     <h1 className={"text-2xl font-bold"}>
                                         Enfoui dans son jardin ou sa jardinière
                                     </h1>
@@ -271,9 +271,9 @@ export default function About() {
                                 </div>
 
                                 <div className={"p-4 rounded-lg space-y-4"}>
-                                    <div id={"section-2-img-2"} className={"h-48 w-48 mx-auto"}/>
+                                    <img src="assets/images/en_surface_2.png" alt="" className={'h-44 w-44 rounded-full mt-12 mx-auto'}/>
                                     <h1 className={"text-2xl font-bold"}>
-                                        Déposé (et coulé) à la surface du sol
+                                    Déposé (et coulé) à la surface du sol
                                     </h1>
                                     <p className={""}>
                                         Une option idéale si vous n'avez pas de matériel ou si votre sol est trop dur,
@@ -282,7 +282,7 @@ export default function About() {
                                 </div>
 
                                 <div className={"p-4 rounded-lg space-y-4"}>
-                                    <div id={"section-2-img-3"} className={"h-48 w-48 mx-auto"}/>
+                                    <img src="assets/images/DGP_exposer_lumiere.jpg" alt="" className={'h-44 w-44 rounded-full mt-12 mx-auto'}/>
                                     <h1 className={"text-2xl font-bold"}>
                                         Si vous n'avez pas de jardin ou de balcon, suspendu à une fenêtre
                                         (exposé à la lumière du jour)
@@ -320,7 +320,7 @@ export default function About() {
                                         <div
                                             className={'h-[400px] w-[400px] rounded-full border-2 border-[#A9A9A9] z-10'}
                                             style={{
-                                                backgroundImage: 'url(https://abte.eu/wp-content/uploads/2023/07/AG-ABTE-07-2023.png)',
+                                                backgroundImage: 'url(assets/images/section-2-img-2.png)',
                                                 backgroundSize: 'cover',
                                                 backgroundRepeat: 'no-repeat',
                                                 backgroundPosition: 'left'
